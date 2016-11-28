@@ -37,7 +37,7 @@ public class ejercicio1 {
                 while((leer=bf.readLine())!=null){
                         lineas++;                        
                 }
-                System.out.println("Nombre: "+nombre+" lineas: "+lineas);
+                System.out.println("Nombred: "+nombre+" lineas: "+lineas);
                 }
                 
             }
